@@ -3,4 +3,4 @@ This Code Refactor consists of an already created webpage which I cleaned up the
 
 ![Code Refactor](screenshot-hw1.png)
 
-https://dylanbest15.github.io/Homework-1-Code-Refactor/
+https://dylanbest15.github.io/Code-Refactor/
